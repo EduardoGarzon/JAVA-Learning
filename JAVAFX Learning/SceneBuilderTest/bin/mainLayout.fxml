@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SceneController">
+  <children>
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" style="-fx-background-color: black; -fx-border-color: black; -fx-border-width: 5;" VBox.vgrow="ALWAYS">
+      <children>
+            <Label layoutX="276.0" layoutY="108.0" text="R.A ou CPF" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <TextField fx:id="infoUser" alignment="CENTER" layoutX="248.0" layoutY="175.0" promptText="Informe aqui" />
+            <Button fx:id="searchButton" layoutX="276.0" layoutY="234.0" mnemonicParsing="false" onAction="#switchInfo" prefHeight="25.0" prefWidth="93.0" text="Buscar">
+               <font>
+                  <Font name="Bauhaus 93" size="12.0" />
+               </font></Button>
+            <MenuBar layoutX="146.0" layoutY="22.0" opacity="0.72" style="-fx-background-color: snow;">
+              <menus>
+                  <Menu mnemonicParsing="false" text="HOME">
+                    <items>
+                      <MenuItem mnemonicParsing="false" text="Action 1" />
+                    </items>
+                  </Menu>
+                <Menu mnemonicParsing="false" text="EVENTOS">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="Close" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="RELATORIOS">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="Delete" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="USUARIOS">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="About" />
+                  </items>
+                </Menu>
+                  <Menu mnemonicParsing="false" text="TURMAS">
+                    <items>
+                      <MenuItem mnemonicParsing="false" text="Action 1" />
+                    </items>
+                  </Menu>
+              </menus>
+               <effect>
+                  <Blend mode="COLOR_BURN" />
+               </effect>
+            </MenuBar>
+      </children>
+    </AnchorPane>
+  </children>
+</VBox>
