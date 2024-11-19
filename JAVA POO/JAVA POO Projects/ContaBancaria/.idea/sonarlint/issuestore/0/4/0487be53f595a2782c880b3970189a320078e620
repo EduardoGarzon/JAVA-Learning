@@ -1,0 +1,67 @@
+
+g
+java:S1192("QDefine a constant instead of duplicating this literal "Saldo em conta: " 6 times.(Ï¦í­
+f	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ê­ù
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ÈŒ¹ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ç‘ë®üÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(íÃËI
+@	java:S106"+Replace this use of System.out by a logger.(®ÀºË
+@	java:S106"+Replace this use of System.out by a logger.(©•¬û
+E	java:S106"+Replace this use of System.out by a logger.(µÃÌÕÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ûíÄÁúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(­ş¥çüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(»÷×‘şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(âÁ‘Òüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ç‘ë®üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÖªÅ­
+E	java:S106"+Replace this use of System.out by a logger.(ßÍ¨¡ûÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(Ó¿ñ¡úÿÿÿÿ
+\
+java:S3457'"AFormat specifiers should be used instead of string concatenation.(™¼Õ¦şÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.(™¼Õ¦şÿÿÿÿ
+W
+java:S3457("AFormat specifiers should be used instead of string concatenation.(Ï¦í­
+@	java:S106("+Replace this use of System.out by a logger.(Ï¦í­
+W
+java:S3457,"AFormat specifiers should be used instead of string concatenation.(µÒÏÿ
+@	java:S106,"+Replace this use of System.out by a logger.(µÒÏÿ
+\
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(™¼Õ¦şÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(™¼Õ¦şÿÿÿÿ
+W
+java:S3457."AFormat specifiers should be used instead of string concatenation.(ÿÕÈÏ
+@	java:S106."+Replace this use of System.out by a logger.(ÿÕÈÏ
+W
+java:S3457/"AFormat specifiers should be used instead of string concatenation.(‘†˜Ä
+@	java:S106/"+Replace this use of System.out by a logger.(‘†˜Ä
+W
+java:S34570"AFormat specifiers should be used instead of string concatenation.(Ï¦í­
+@	java:S1060"+Replace this use of System.out by a logger.(Ï¦í­
+W
+java:S34571"AFormat specifiers should be used instead of string concatenation.(Ûäı
+@	java:S1061"+Replace this use of System.out by a logger.(Ûäı
+W
+java:S34575"AFormat specifiers should be used instead of string concatenation.(Ï¦í­
+@	java:S1065"+Replace this use of System.out by a logger.(Ï¦í­
+E	java:S1066"+Replace this use of System.out by a logger.(ÇàÎìùÿÿÿÿ
+W
+java:S34578"AFormat specifiers should be used instead of string concatenation.(Ï¦í­
+@	java:S1068"+Replace this use of System.out by a logger.(Ï¦í­
+W
+java:S3457="AFormat specifiers should be used instead of string concatenation.(Ï¦í­
+@	java:S106="+Replace this use of System.out by a logger.(Ï¦í­
+E	java:S106>"+Replace this use of System.out by a logger.(€ìè¡ıÿÿÿÿ
+W
+java:S3457@"AFormat specifiers should be used instead of string concatenation.(Ï¦í­
+@	java:S106@"+Replace this use of System.out by a logger.(Ï¦í­
+W
+java:S3457F"AFormat specifiers should be used instead of string concatenation.(Ûäı
+@	java:S106F"+Replace this use of System.out by a logger.(Ûäı
+W
+java:S3457G"AFormat specifiers should be used instead of string concatenation.(×÷Å–
+@	java:S106G"+Replace this use of System.out by a logger.(×÷Å–
+\
+java:S3457H"AFormat specifiers should be used instead of string concatenation.(³ºı¡ùÿÿÿÿ
+E	java:S106H"+Replace this use of System.out by a logger.(³ºı¡ùÿÿÿÿ
+@	java:S106K"+Replace this use of System.out by a logger.(±²¥ƒ
+E	java:S106M"+Replace this use of System.out by a logger.(ŠÇé×ùÿÿÿÿ

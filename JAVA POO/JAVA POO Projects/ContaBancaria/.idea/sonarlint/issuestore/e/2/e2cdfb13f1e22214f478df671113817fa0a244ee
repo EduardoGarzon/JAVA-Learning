@@ -1,0 +1,17 @@
+
+v
+java:S1104"TMake NumConta a static final constant or non-public and provide accessors if needed.(óÈîºşÿÿÿÿ8ûô”°1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ÈŒ¹ûÿÿÿÿ8ûô”°1
+t	java:S116"SRename this field "NumConta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÈîºşÿÿÿÿ8‹õ”°1
+L	java:S106T"+Replace this use of System.out by a logger.(»ÙÊ£úÿÿÿÿ8²õ”°1
+G	java:S106V"+Replace this use of System.out by a logger.(­Ş¤8²õ”°1
+G	java:S106X"+Replace this use of System.out by a logger.(ØîÏï8²õ”°1
+L	java:S106\"+Replace this use of System.out by a logger.(ò¯¡üÿÿÿÿÿ8²õ”°1
+L	java:S106d"+Replace this use of System.out by a logger.(îØÕ×øÿÿÿÿ8²õ”°1
+L	java:S106m"+Replace this use of System.out by a logger.(şÏÃşøÿÿÿÿ8²õ”°1
+L	java:S106p"+Replace this use of System.out by a logger.(Æû®ûÿÿÿÿ8²õ”°1
+o
+java:S1871|"MThis branch's code block is the same as the block for the branch on line 118.(·“áÏùÿÿÿÿ8²õ”°1
+G	java:S106z"+Replace this use of System.out by a logger.(ô²öÎ8Âõ”°1
+H	java:S106€"+Replace this use of System.out by a logger.(ô²öÎ8Âõ”°1
+M	java:S106…"+Replace this use of System.out by a logger.(Æû®ûÿÿÿÿ8Âõ”°1
